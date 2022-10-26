@@ -1,0 +1,19 @@
+{
+    "cases": [
+      {
+        "id": "1",
+        "report": "crash",
+        "description": "so many casualities",
+        "date": "Mike Raph"
+        
+      },
+      {
+        "id": "2",
+        "report": "accident",
+        "description": "Easy to use and direct",
+        "date": "12/01/2020"
+        
+      }
+      
+    ]
+  }

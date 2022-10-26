@@ -1,0 +1,60 @@
+.redflags{
+    background: whitesmoke;
+    color: #00171F;
+    position: relative;
+    left: 70px;
+    bottom: 75px;
+    padding: 5em;
+    border-radius: 0px;
+    border: 1px solid;
+    border-color: black;
+    width: 350px;
+    height: 450px;
+    margin: 2em;
+}
+.intervene{
+    background: whitesmoke;
+    position: relative;
+    left:450px;
+    bottom: 550px;
+    color: #00171F;
+    border-radius: 0px;
+    border: 1px solid;
+    border-color: black;
+    padding: 5em;
+    width: 350px;
+   height: 450px;
+    margin: 2em;
+}
+h2{
+    position: relative;
+    left: 390px;
+    bottom: 50px;
+}
+h3{
+    position: relative;
+    bottom: 85px;  
+    right: 70px;
+    background-color: #00171F;
+    color: navajowhite;
+    width: 350px;
+    text-align: center;
+}
+.delete{
+    position: relative;
+    bottom: -295px;  
+    left: -50px;
+    width: 90px;
+    color: red;
+     background: none;
+     border: none;
+}
+.delet{
+    position: relative;
+    bottom: -295px;  
+    left: -70px;
+    width: 80px;
+    color: blue;
+    background: none;
+    border: none;
+}
