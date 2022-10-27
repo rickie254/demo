@@ -9,7 +9,7 @@ const Footer= () => {
             
             <div class="footerMenu">
 
-                <img src="./images/mkono.png" width={50} height={40}/>
+                <img src="https://previews.123rf.com/images/ijacky/ijacky1309/ijacky130900606/22337481-fist-of-kenya-flag-painted-multi-purpose-concept-isolated-on-white-background.jpg" width={50} height={40}/>
                 <h1 class="fMenuTitle">About Us</h1>
                 <ul class="fList">
                     <li class="fListItem">Company</li>

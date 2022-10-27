@@ -124,7 +124,7 @@ return (
 
 <div>
   <App className="form">
-<Imagepositioning><h1><img src='../images/mkono.png' alt="" width={100} height={100} /></h1></Imagepositioning>
+<Imagepositioning><h1><img src='https://previews.123rf.com/images/ijacky/ijacky1309/ijacky130900606/22337481-fist-of-kenya-flag-painted-multi-purpose-concept-isolated-on-white-background.jpg' alt="" width={100} height={100} /></h1></Imagepositioning>
 {/* Calling to the methods */}
 <Styledmessages className="messages">
 {errorMessage()}
